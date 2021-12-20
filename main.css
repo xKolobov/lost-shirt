@@ -18,7 +18,7 @@ html, body {
 
 .wrapper {
     overflow: hidden;
-    min-width: 1310px;
+    min-width: 1440px;
 }
 
 .container {
@@ -609,4 +609,4 @@ color: #fff;
 .socials__icon {
 width: 100%;
 height: 100%;
-}            
+}   
